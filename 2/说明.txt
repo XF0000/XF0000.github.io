@@ -1,0 +1,7 @@
+大部分内容都在index.html里面进行修改
+
+“在一起”的时间修改在./js/lovetime.js里，已进行代码备注
+
+首页标题修改在./js/talk.js里，修改对应文字即可
+
+背景图都在./css/lovexhj.css里进行修改
